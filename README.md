@@ -5,7 +5,7 @@ This repository contains the backend for the ewapps_aws_lambda, which provides a
 We will provide some clients
 
 * Windows https://www.erpware.de/tools/ewapps_aws_lambda/
-* Android (comming soon)
+* Android https://play.google.com/store/apps/details?id=co.erpware.ewapps_aws_lambda
 
 ## setup - with terraform
 
