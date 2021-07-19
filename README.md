@@ -1,5 +1,7 @@
 # ewapps_aws_lambda
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P9PSQ7LZNTNB4)
+
 This repository contains the backend for the ewapps_aws_lambda, which provides an AWS API Gateway to list, and invoke other AWS Lambda functions.
 
 We will provide some clients
