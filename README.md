@@ -6,7 +6,7 @@ This repository contains the backend for the ewapps_aws_lambda, which provides a
 
 We will provide some clients
 
-* Windows https://www.erpware.de/tools/ewapps_aws_lambda/
+* Windows https://www.erpware.co/en/tools/ewapps-aws-lambda/
 * Android https://play.google.com/store/apps/details?id=co.erpware.ewapps_aws_lambda
 
 ## setup - with terraform
@@ -38,4 +38,4 @@ The invoke request just invokes a Lambda function based on the ARN, you provide 
 
 # erpware
 
-ewapps_aws_lambda is one of the tools, we are using within our company "erpware" (https://www.erpware.de (german) / https://www.erpware.co (english)). Apps for Android (possible later for iOS). Most of our tools are freeware or waiting for a small donation.
+ewapps_aws_lambda is one of the tools, we are using within our company "erpware" (https://www.erpware.co). Apps for Android (possible later for iOS). Most of our tools are freeware or waiting for a small donation.
